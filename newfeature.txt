@@ -1,3 +1,7 @@
 new file in feature 01, created that branched from develop stream
 update 01 in feature01
 hotfixfrom dev
+updated in new feature branch and i want to push to feature origin
+udpated in feature03
+updated from the original feature01 branch
+
